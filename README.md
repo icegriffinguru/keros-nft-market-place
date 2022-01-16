@@ -1,9 +1,9 @@
-# NFT based Photo MarketPlace
+# Keros NFT MarketPlace
 
 ***
 
-## 【Introduction of NFT based Photo MarketPlace】
-- NFT based Photo MarketPlace is the peer-to-peer Marketplace for buy and sell of photos which was uploaded by users.
+## 【Introduction of Keros NFT MarketPlace】
+- Keros NFT MarketPlace is the peer-to-peer Marketplace for buy and sell of photos which was uploaded by users.
 - It assume that uploaded photos in this marketplace are used as photos of news article.
 - Even if user has smartphone which include function of camera, anyone can become sellers by uploading photos in this MarketPlace.
   - It mean that if user who is seller live in poor region and doesn't has bank account and so on, they can earn money by selling photos in this marketplace.
@@ -73,22 +73,3 @@ $ npm run client
 ```
 http://127.0.0.1:3000
 ```
-
-&nbsp;
-
-***
-
-
-## 【Work flow】
-
-&nbsp;
-
-***
-
-## 【References】
-- Gitcoin（The Road to Devcon5）
-https://gitcoin.co/issue/ConsenSys/Road-To-Devcon-Relay/2
-https://gitcoin.co/issue/ConsenSys/ConsenSysGrants-Challenges/5/3497
-
-- Documents
-
